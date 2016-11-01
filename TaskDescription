@@ -1,0 +1,12 @@
+Create a hierarchy of classes for storing information about human resources of a
+company.
+Create a 3-level hierarchy composed of at least 20 different employees of all the kinds
+(i.e. trainees, workers and managers).
+
+Please deliver the following functionality:
+1. Preparing payroll for all the employees;
+2. Searching for the highest salary.
+3. Searching for employees subordinates of the given manager;
+4. Searching for employees who earn more than 1000 PLN.
+
+Create a simple interface for workers and managers.
